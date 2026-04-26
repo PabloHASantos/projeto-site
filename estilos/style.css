@@ -9,8 +9,19 @@ body{
 }
 
 main{
+    
     background-color: white;
     width: 500px;
     margin: auto;
     box-shadow: 3px 3px rgb(0, 0, 0);
+    padding: 10px;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+}
+
+img.lado{
+    float: right;
 }
